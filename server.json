@@ -4,5 +4,6 @@
   "password": "password",
   "path": "/data/ff/web",
   "port": 22,
-  "localDir": "dist/"
+  "localDir": "dist/",
+  "readyTimeout" :200000
 }
